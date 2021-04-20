@@ -1,0 +1,13 @@
+body {
+    margin: 30px;
+    font: Helvetica;
+}
+.my-row-space {
+    min-height: 100px;
+}
+.navbar {
+    font-size: 150%;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
